@@ -1,0 +1,35 @@
+body {background-color: coral;}
+.box {
+    background-color: rgb(46, 39, 34); 
+    padding: 20px;
+}
+h1 {
+    border-bottom: 5px solid red;
+  }
+  
+  h2 {
+    border-bottom: 4px dotted blue;
+  }
+  
+  div {
+    border-bottom: double;
+  }
+  div.a {
+    font-size: 15px;
+  }
+  
+  div.b {
+    font-size: large;
+  }
+  
+  div.c {
+    font-size: 150%;
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+
+
